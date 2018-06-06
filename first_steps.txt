@@ -1,0 +1,91 @@
+Step 1: CVS
+===========
+===========
+
+
+git: Control version system
+===========================
+Git basics - https://www.atlassian.com/git
+Edureka Youtube video "What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka" - https://www.youtube.com/watch?v=xuB1Id2Wxak
+
+GitHub: git server
+==================
+https://github.com/
+GitHub Markdown guide - https://guides.github.com/features/mastering-markdown/
+GitHub guides in general - https://guides.github.com/
+
+GitKraken: GUI client for git
+=============================
+Download . https://www.gitkraken.com/
+Getting Started with GitKraken - https://support.gitkraken.com/
+Youtube channel - https://www.youtube.com/channel/UCp06FAzrFalo3txskS1gCfA
+
+To do list
+1.- Create a GitHub account
+2.- Test your GitHub account creating a GitHub project. Pick a sensible name related to your internship project
+3.- Download and install git client (GitKraken). To test the installation connect with your GitHub account, clone the GitHub project in a local repository
+4.- Create some files, commit changes, check changes online on the GitHub project site
+4.- Invite your supervisor (GitHub account is prodrig@disca.upv.es) to collaborate on the project
+5.- During the process: read the docs, view the videos, search for more information, ask questions
+
+
+
+Step 2: Unit testing
+====================
+====================
+
+Ruby
+====
+https://rubyinstaller.org/
+
+
+Ceedling, Unity, CMock
+======================
+http://www.throwtheswitch.org/
+
+To do list
+1.- Download and install Ruby. Learning the Ruby language is *not* required
+2.- Download and install Ceedling
+3.- Make some tests
+4.- During the process: read the docs, view the videos, search for more information, ask questions
+
+
+
+Step 3: Microcontroller development software
+============================================
+============================================
+
+IAR Embedded Workbench for ARM: C/C++ IDE for any ARM MCU
+=========================================================
+IAR Embedded Workbench for ARM - https://www.iar.com/iar-embedded-workbench/#!?architecture=Arm
+
+STM32CubeMX: STM specific initialization code generator
+=======================================================
+http://www.st.com/en/development-tools/stm32cubemx.html
+Weblearning's Youtube video "#1 STM32CubeMX Tutorial" - https://www.youtube.com/watch?v=imXauCiwEfs
+Weblearning's Youtube video "#2 How the cube generates the code" - https://www.youtube.com/watch?v=SZub9bFGXak
+Weblearning's Youtube video "#3 STM32CubeExamples" - https://www.youtube.com/watch?v=p3q3kaftvDQ
+
+
+To do list
+1.- Download and install IAR's Embedded Workbench for ARM
+2.- Test the installation compiling, downloading, and debugging a simple example for the board
+2.- Downlaod and install STM32CubeMX
+3.- Test the installation configuring the board for a simple project, generate the code, switch to IAR EWARM, compile, download, and debug
+4.- During the process: read the docs, view the videos, search for more information, ask questions
+
+
+
+Step 4: FreeRTOS
+================
+================
+
+FreeRTOS webpage - https://www.freertos.org/
+FreeRTOS API reference - https://www.freertos.org/a00106.html
+
+To do list
+1.- Do *not* download FreeRTOS. It comes bundled with STMCubeMX
+2.- Create and test a simple FreeRTOS application with STMCubeMX
+3.- During the process: read the docs, search for more information, ask questions
+
+
