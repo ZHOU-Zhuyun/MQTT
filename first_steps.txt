@@ -89,3 +89,4 @@ To do list
 3.- During the process: read the docs, search for more information, ask questions
 
 
+Additional step: Documenting the code
